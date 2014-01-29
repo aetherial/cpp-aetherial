@@ -1,6 +1,8 @@
-# cpp-ethereum
+# cpp-aetherial
 
-Ethereum C++ Client.
+Aetherial C++ Client.
+
+This is a fork of ethereum. But there won't be any dumbass premining. We'll launch when they do, but with a distinct blockchain.
 
 Gav Wood, 2014.
 
